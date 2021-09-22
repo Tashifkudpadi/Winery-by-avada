@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Winery-by-avada/static/css/main.9f6a492d.chunk.css",
+    "main.js": "/Winery-by-avada/static/js/main.c38b3631.chunk.js",
+    "main.js.map": "/Winery-by-avada/static/js/main.c38b3631.chunk.js.map",
+    "runtime-main.js": "/Winery-by-avada/static/js/runtime-main.acefd9dc.js",
+    "runtime-main.js.map": "/Winery-by-avada/static/js/runtime-main.acefd9dc.js.map",
+    "static/js/2.03ee55e4.chunk.js": "/Winery-by-avada/static/js/2.03ee55e4.chunk.js",
+    "static/js/2.03ee55e4.chunk.js.map": "/Winery-by-avada/static/js/2.03ee55e4.chunk.js.map",
+    "index.html": "/Winery-by-avada/index.html",
+    "static/css/main.9f6a492d.chunk.css.map": "/Winery-by-avada/static/css/main.9f6a492d.chunk.css.map",
+    "static/js/2.03ee55e4.chunk.js.LICENSE.txt": "/Winery-by-avada/static/js/2.03ee55e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acefd9dc.js",
+    "static/js/2.03ee55e4.chunk.js",
+    "static/css/main.9f6a492d.chunk.css",
+    "static/js/main.c38b3631.chunk.js"
+  ]
+}
