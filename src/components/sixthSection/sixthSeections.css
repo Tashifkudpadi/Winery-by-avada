@@ -1,0 +1,60 @@
+.sixthContainer {
+  background-image: url("https://avada.theme-fusion.com/winery/wp-content/uploads/sites/150/2020/11/vineyard-tours-background-scaled.jpg");
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 587.6px;
+  width: 100%;
+  padding: 40px;
+  color: #fff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sixthContent {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  width: 80%;
+  height: 267.6px;
+  /* border: 2px solid red; */
+}
+
+.sixthContent h3 {
+  font-size: 17px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+  letter-spacing: 1px;
+  margin: 12px 0;
+}
+
+.sixthContent h1 {
+  font-size: 60px;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: normal;
+}
+
+.sixthContent p {
+  width: 500px;
+  height: 74.4px;
+  font-size: 14px;
+  font-family: "Montserrat", sans-serif;
+  margin: 1.4rem 0;
+}
+
+.sixthContent span {
+  width: 238.6px;
+  height: 42.8px;
+  padding: 13px 29px;
+  background-color: #7f0f41;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sixthContent span:hover {
+  background-color: #ff6365;
+}

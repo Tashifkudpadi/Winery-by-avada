@@ -1,0 +1,79 @@
+.thirdContainer {
+  width: 1519.2px;
+  height: 411.3px;
+}
+
+.containerBg {
+  /* background-image: linear-gradient(
+    180deg,
+    #2b0d1a 18%,
+    rgba(255, 255, 255, 0) 0%
+  ); */
+  background-color: #2b0d1a;
+  width: 1519.2px;
+  height: 75px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  padding: 0 130px;
+}
+.card {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  background-image: url("https://avada.theme-fusion.com/winery/wp-content/uploads/sites/150/2020/11/calltoaction-background.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  width: 401.6px;
+  height: 331.3px;
+
+  position: relative;
+  bottom: 1.8rem;
+}
+
+.card h2 {
+  padding: 12px 18px;
+  font-weight: normal;
+  width: 100%;
+  font-family: "Playfair Display", sans-serif;
+  font-size: 28px;
+  color: #7f0f41;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+
+  position: relative;
+  top: 38px;
+}
+.card img {
+  width: 80px;
+  height: 156.9px;
+  margin-top: 82px;
+}
+
+.card span {
+  background-color: #7f0f41;
+  width: 100%;
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: 1px;
+  font-weight: 400;
+  height: 42.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.1s ease-in;
+}
+
+.card span:hover {
+  background-color: #ff6365;
+}

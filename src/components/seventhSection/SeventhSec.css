@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Playfair+Display:ital@0;1&display=swap");
+
+.seventhSection {
+  height: 100vh;
+  width: 1519.2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  top: -34px;
+}
+
+.titleContent {
+  width: 1248px;
+  height: 150.4px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+
+.titleContent p {
+  color: #45152a;
+  font-size: 17px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: normal;
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  top: -6px;
+}
+
+.titleContent h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 60px;
+  font-weight: normal;
+  color: #45152a;
+  position: relative;
+  top: -20px;
+}
+
+/* cards */
+
+.seventhCards {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  width: 1212.2px;
+  height: 294.25px;
+  position: relative;
+  top: 2.5rem;
+}
+
+.seventhCard {
+  width: 391px;
+  height: 278.15px;
+}
+
+.seventhCard img {
+  width: 373.36px;
+  height: 272.54px;
+}
+
+.seventhCard h1 {
+  font-size: 28px;
+  font-family: "Playfair Display", serif;
+  color: #212934;
+  font-weight: normal;
+  margin-top: 12px;
+}
+
+.seventhCard p {
+  font-size: 14px;
+  margin-top: 12px;
+  font-family: "Montserrat", sans-serif;
+  width: 373.36px;
+  height: 49.6px;
+}
+
+.seventhCard h1:hover {
+  transition: 0.1s ease-in;
+  color: #ff6365;
+  cursor: pointer;
+}
+
+.seventhCard h3 {
+  color: #ff6365;
+  font-size: 18px;
+  font-weight: normal;
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+}
+
+.readMore {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem 0;
+}
+.readMore span {
+  background-color: #7f0f41;
+  padding: 13px 29px;
+  color: #fff;
+  letter-spacing: 1px;
+  font-weight: normal;
+}
+
+.readMore span:hover {
+  background-color: #ff6365;
+  transition: all 0.1s ease-in;
+}

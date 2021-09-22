@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&display=swap");
+
+.secContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0);
+  background-position: center top;
+  background-repeat: no-repeat;
+  border-width: 0px;
+  border-color: rgb(226, 226, 226);
+  border-style: solid;
+  background-size: cover;
+  background-image: url(https://avada.theme-fusion.com/winery/wp-content/uploads/sites/150/2020/11/hero-background-full-scaled.jpg);
+  width: 1519.2px;
+  height: 673.3px;
+}
+
+.secContent {
+  width: 1248px;
+  height: 253.2px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+.secContent p {
+  text-align: center;
+  font-size: 21px;
+  letter-spacing: 2px;
+  color: #f7f0f0;
+}
+.secContent h1 {
+  margin-bottom: 18px;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  font-size: 100px;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 500;
+}
+
+.secContent span {
+  color: #fff;
+  background-color: #7f0f41;
+  padding: 17px 40px;
+  height: 55.6px;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  box-shadow: 10px 28px 18px rgba(0, 0, 0, 0.4);
+}
+span i {
+  margin-left: 8px;
+}
+span:hover {
+  background-color: #ff6365;
+  cursor: pointer;
+  transition: all 0.1s ease-in;
+}

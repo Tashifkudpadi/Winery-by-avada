@@ -1,0 +1,59 @@
+.bg {
+  background-image: url("https://avada.theme-fusion.com/winery/wp-content/uploads/sites/150/2020/11/header-background-scaled.jpg");
+  background-color: rgb(138, 28, 71);
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-width: 0px;
+  border-color: rgb(226, 226, 226);
+  border-style: solid;
+  background-size: cover;
+
+  height: 193.025px;
+  width: 1519.2px;
+
+  /* max-width: 100%; */
+  /* width: 100; */
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bgContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  max-width: 1248px;
+  height: 113.025px;
+  margin: 0 29px;
+}
+
+.bgContent {
+  background-image: url("https://avada.theme-fusion.com/winery/wp-content/uploads/sites/150/2021/04/winery-logo-white.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+
+  width: 1148px;
+  height: 113.025px;
+}
+
+.cart {
+  height: 49.6px;
+  width: 51.93px;
+  background-color: transparent;
+  border: 1px solid #ff6365;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.cart i {
+  color: #ff6365;
+}
+
+.cart:hover {
+  border: 2px solid #ff5659;
+}
