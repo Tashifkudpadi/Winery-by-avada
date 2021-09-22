@@ -8,7 +8,9 @@
   background-size: cover;
   background-image: url(https://avada.theme-fusion.com/winery/wp-content/uploads/sites/150/2020/11/footer-background-scaled.jpg);
 
-  height: 100vh;
+  height: 100%;
+  width: 1519.2px;
+  padding-bottom: 2.8rem;
 }
 
 .firstSec {

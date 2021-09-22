@@ -4,7 +4,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   height: 587.6px;
-  width: 100%;
+  width: 1519.2px;
   padding: 40px;
   color: #fff;
 
@@ -20,6 +20,12 @@
   width: 80%;
   height: 267.6px;
   /* border: 2px solid red; */
+}
+
+@media (max-width: 280px) {
+  .sixthContent {
+    padding: 0 2.4rem;
+  }
 }
 
 .sixthContent h3 {
